@@ -1,9 +1,7 @@
-FROM openjdk:17-alpine
+FROM openjdk:8-alpine
 
 WORKDIR /usr/src/myapp
 
 COPY . .
 
-RUN javac Main.java
-
-CMD ["java", "Main"]
+CMD ["java", "HelloWorld.java"]
