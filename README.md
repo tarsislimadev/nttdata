@@ -1,9 +1,9 @@
 # [NTT DATA (Europe & Latam)](https://www.linkedin.com/company/ntt-data-europe-latam/)
 
-- [-] Java 8
-- [-] GRAPHQL
+- [x] Java 8
+- [x] GRAPHQL
 - [ ] Spring boot
-- [-] Microserviços (Docker)
+- [x] Microserviços (Docker)
 - [ ] Financeiro
 - [ ] Arquitetura orientada a serviços
 - [ ] Ferramentas de integração contínua
